@@ -3,7 +3,15 @@
 1.0.0 mSakura Minecraft Client<br />
 2107.05.29<br />
 Closed beta<br />
-<br />
+<p>
+	<br />
+</p>
+<p>
+	Download:https://codeload.github.com/magicsakura/mSakura-Minecraft-Client/zip/master
+</p>
+<p>
+	<br />
+</p>
 https://msakura.org<br />
 <br />
 这是mSakura的Minecraft 服务器的测试版客户端，它现在处于1.0.0版本。<br />
